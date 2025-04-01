@@ -1,8 +1,4 @@
 
-#Authur: Sreedhar RP
-#Creation Date: 27-07-2024
-
-
 #Libraries Added
 import asyncio
 import RPi.GPIO as GPIO
